@@ -14,10 +14,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 信息工程在读 / Exchange at UCSD  
-- 💡 研究兴趣：ISAC、RIS、机器学习、强化学习、DAS  
-- 🛠️ 技能：Python, MATLAB, PyTorch, Reinforcement Learning, Git  
-- 📫 How to reach me: chenytseu@outlook.com
+- 🎓 Information Engineering student / Exchange at UCSD  
+- 💡 Research Interests: ISAC, RIS, Machine Learning, Reinforcement Learning, DAS  
+- 🛠️ Skills: Python, MATLAB, PyTorch, Reinforcement Learning, Git  
+- 📫 How to reach me: chenytseu@outlook.com  
 
 ---
 
