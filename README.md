@@ -6,9 +6,9 @@
   <p>Exchange Student @ UCSD | Information Engineering @ Southeast University</p>
 
   <!-- 社交图标 -->
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/LimboMeow"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:chenytseu@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/yiting9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
